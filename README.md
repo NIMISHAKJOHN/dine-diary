@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Project Setup
 
@@ -56,3 +57,6 @@ php artisan db:seed --class=RolesPermissionsSeeder
 
 
 
+=======
+# dine-diary
+>>>>>>> origin/main
